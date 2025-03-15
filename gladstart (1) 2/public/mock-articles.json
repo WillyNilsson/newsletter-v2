@@ -1,0 +1,101 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Genombrott i svensk forskning kring förnybar energi",
+      "summary": "Forskare vid Uppsala universitet har utvecklat en ny metod för att lagra solenergi med 40% högre effektivitet än tidigare teknik. Detta kan revolutionera hur vi använder solenergi i framtiden och göra förnybara energikällor mer tillgängliga för alla.",
+      "source": { "id": 3, "name": "SVT Nyheter" },
+      "published_date": "2025-03-11T16:24:00Z",
+      "positivity_score": 0.92,
+      "topics": [{ "id": 1, "name": "Miljö" }, { "id": 2, "name": "Forskning" }, { "id": 3, "name": "Innovation" }],
+      "region": "Uppsala",
+      "image_url": "/placeholder.svg?height=400&width=600",
+      "url": "https://www.svt.se/nyheter/artikel/12345"
+    },
+    {
+      "id": 2,
+      "title": "Nya vårdmetoden minskar väntetiden för patienter med 70 procent",
+      "summary": "En innovativ arbetsmodell vid Sahlgrenska Universitetssjukhuset har kraftigt reducerat väntetiden för patienter samtidigt som vårdpersonalens arbetsmiljö förbättrats. Modellen kommer nu att implementeras på fler sjukhus runt om i landet.",
+      "source": { "id": 5, "name": "Göteborgs-Posten" },
+      "published_date": "2025-03-12T09:15:00Z",
+      "positivity_score": 0.87,
+      "topics": [{ "id": 4, "name": "Hälsa" }, { "id": 3, "name": "Innovation" }],
+      "region": "Västra Götaland",
+      "image_url": "/placeholder.svg?height=400&width=600",
+      "url": "https://www.gp.se/nyheter/artikel/67890"
+    },
+    {
+      "id": 3,
+      "title": "Svensk startup säkrar miljardinvestering: \"Kommer förändra hållbart mode\"",
+      "summary": "Stockholmsbaserade Re:Textile har utvecklat en teknik för 100% återvinning av textilier. Nu investerar internationella aktörer över en miljard kronor i företaget. Detta kan leda till en revolution inom modeindustrin och drastiskt minska dess miljöpåverkan.",
+      "source": { "id": 11, "name": "Breakit" },
+      "published_date": "2025-03-12T07:30:00Z",
+      "positivity_score": 0.89,
+      "topics": [{ "id": 1, "name": "Miljö" }, { "id": 5, "name": "Ekonomi" }, { "id": 6, "name": "Mode" }],
+      "region": "Stockholm",
+      "image_url": "/placeholder.svg?height=400&width=600",
+      "url": "https://www.breakit.se/artikel/24680"
+    },
+    {
+      "id": 4,
+      "title": "Småländsk kommun först i landet med 100% fossilfri kollektivtrafik",
+      "summary": "Växjö kommun har nått sitt mål om helt fossilfri kollektivtrafik fem år före tidsplanen. Kommunen använder nu en kombination av eldrivna bussar och biogas. Projektet har väckt internationell uppmärksamhet och flera delegationer från andra länder har besökt Växjö för att lära sig mer.",
+      "source": { "id": 3, "name": "SVT Nyheter" },
+      "published_date": "2025-03-11T14:12:00Z",
+      "positivity_score": 0.85,
+      "topics": [{ "id": 1, "name": "Miljö" }, { "id": 7, "name": "Transport" }],
+      "region": "Kronoberg",
+      "image_url": "/placeholder.svg?height=400&width=600",
+      "url": "https://www.svt.se/nyheter/artikel/13579"
+    },
+    {
+      "id": 5,
+      "title": "Svenska elevresultat visar stark uppgång i internationella mätningar",
+      "summary": "De senaste PISA-resultaten visar att svenska elever presterar allt bättre i matematik och naturvetenskap, med kraftig förbättring sedan förra mätningen. Sverige klättrar nu flera placeringar i den internationella rankingen och närmar sig topp 10.",
+      "source": { "id": 2, "name": "Dagens Nyheter" },
+      "published_date": "2025-03-10T18:45:00Z",
+      "positivity_score": 0.83,
+      "topics": [{ "id": 8, "name": "Utbildning" }],
+      "region": "National",
+      "image_url": "/placeholder.svg?height=400&width=600",
+      "url": "https://www.dn.se/artikel/24680"
+    },
+    {
+      "id": 6,
+      "title": "Arbetslösheten i Sverige sjunker till lägsta nivån på 15 år",
+      "summary": "Nya siffror från Arbetsförmedlingen visar att arbetslösheten i Sverige nu är nere på 4,2 procent, den lägsta nivån sedan 2010. Särskilt positiv är utvecklingen bland unga och utrikesfödda, där arbetslösheten minskat markant under det senaste året.",
+      "source": { "id": 1, "name": "Svenska Dagbladet" },
+      "published_date": "2025-03-12T10:30:00Z",
+      "positivity_score": 0.81,
+      "topics": [{ "id": 5, "name": "Ekonomi" }, { "id": 9, "name": "Arbetsmarknad" }],
+      "region": "National",
+      "image_url": "/placeholder.svg?height=400&width=600",
+      "url": "https://www.svd.se/artikel/97531"
+    },
+    {
+      "id": 7,
+      "title": "Norrbotten blir centrum för grön industri: \"Global förebild\"",
+      "summary": "Med H2 Green Steel, LKAB:s fossilfria järnsvamp och nu batterifabriker är Norrbotten på väg att bli ett internationellt centrum för grön industri. Regionen förväntas skapa tusentals nya jobb och locka internationell expertis under de kommande åren.",
+      "source": { "id": 4, "name": "Sveriges Radio" },
+      "published_date": "2025-03-11T11:20:00Z",
+      "positivity_score": 0.9,
+      "topics": [{ "id": 1, "name": "Miljö" }, { "id": 5, "name": "Ekonomi" }, { "id": 10, "name": "Industri" }],
+      "region": "Norrbotten",
+      "image_url": "/placeholder.svg?height=400&width=600",
+      "url": "https://www.sverigesradio.se/artikel/86420"
+    },
+    {
+      "id": 8,
+      "title": "Svensk modell för integration väcker internationell uppmärksamhet",
+      "summary": "Ett projekt i Malmö som kombinerar språkutbildning med arbetsplatsförlagd praktik har gett remarkabla resultat och studeras nu internationellt. Över 80% av deltagarna har fått jobb inom sex månader efter avslutat program, vilket är långt över genomsnittet för liknande insatser.",
+      "source": { "id": 6, "name": "Sydsvenskan" },
+      "published_date": "2025-03-10T15:40:00Z",
+      "positivity_score": 0.79,
+      "topics": [{ "id": 11, "name": "Integration" }, { "id": 9, "name": "Arbetsmarknad" }],
+      "region": "Skåne",
+      "image_url": "/placeholder.svg?height=400&width=600",
+      "url": "https://www.sydsvenskan.se/artikel/75319"
+    }
+  ]
+}
+
